@@ -1,0 +1,14 @@
+{
+  "name": "evaneos/cms-wp",
+  "description": "Test the WordPress CMS",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Yoann Blot",
+      "email": "yoann.blot@gmail.com"
+    }
+  ],
+  "require": {
+    "johnpbloch/wordpress": "^5.2"
+  }
+}
